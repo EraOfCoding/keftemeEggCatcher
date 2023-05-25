@@ -46,3 +46,5 @@ public class spawner0 : MonoBehaviour
         }
     }
 }
+
+// Salam n! Ia realno staralsia! Nedius otsenite.Vsiu logiku pisal sam
